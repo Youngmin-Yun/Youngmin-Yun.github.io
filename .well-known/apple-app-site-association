@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UD9M4A4K8F.com.octobersky.wolf",
+        "paths": [ "/strava-callback", "/strava-callback/*" ]
+      }
+    ]
+  }
+}
